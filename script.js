@@ -235,9 +235,9 @@ const I18N = {
     "collab.4.t":"Translation / Cross-language","collab.4.d":"Interviews, writing and content adaptation across Chinese and English for international work.",
     "contact.title":"Want to build something together?","contact.lede":"Commissions, guest invitations and event collaborations are all welcome. I usually reply within one to two working days.",
     "contact.email":"Write to me · youngformovie@163.com","contact.note":"Based in Shanghai · open to remote & cross-timezone work",
-    "qr.xhs.n":"Xiaohongshu · Julian Yang","qr.xhs.d":"RED ID 5328275193 · scan to find me",
-    "qr.wx.n":"WeChat · Zuzhan's Cinema Notebook","qr.wx.d":"Scan in WeChat to follow",
-    "qr.xyz.n":"Xiaoyuzhou · Cinema Attack","qr.xyz.d":"Press & hold / scan to subscribe",
+    "qr.xhs.n":"Xiaohongshu · Julian Yang","qr.xhs.d":"Scan to find me",
+    "qr.wx.n":"WeChat · Zuzhan's Cinema Notebook","qr.wx.d":"Scan to follow",
+    "qr.xyz.n":"Xiaoyuzhou · Cinema Attack","qr.xyz.d":"Scan to subscribe",
     "footer.copy":"© 2026 Julian Yang 杨祖占 · Film & Theatre Criticism / Media Writing","footer.update":"Continuously updated · Last updated 2026.07"
   }
 };
